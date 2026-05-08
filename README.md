@@ -1,0 +1,2 @@
+# Open-Kids-Africa-x-She-Builds-Tech-x-OZ-Tech-Foundations-Bootcamp
+The Tech Foundations Bootcamp is a free, mentor-led technology education program designed to give young girls in Africa their first real access to coding, digital skills, and hands-on technology training — at no cost to students or their families.  The program is a partnership between Open Kids Africa, She Builds Tech and Oz platform
