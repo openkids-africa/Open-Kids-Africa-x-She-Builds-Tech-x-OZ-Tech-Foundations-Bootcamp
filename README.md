@@ -1,7 +1,7 @@
 # Open Kids Africa × She Builds Tech × OZ — Tech Foundations Bootcamp
 
 > **A free, mentor-led 10-week technology education program for Kids in Africa.**
-> Powered by Open Kids Africa, She Builds Tech, and the Oz learning platform.
+> Powered by Open Kids Africa, She Builds Tech, and the Oz community.
 
 ---
 
